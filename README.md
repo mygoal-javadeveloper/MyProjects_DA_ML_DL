@@ -1,7 +1,7 @@
 # MyProjects_DA_ML_DL  
 
-# Machine Learning  
-# Classification  
+## Machine Learning  
+#### Classification  
 
 |Project|Dataset|Machine Learning Algorithm (Data Model)|
 |:----|:----|:----|
