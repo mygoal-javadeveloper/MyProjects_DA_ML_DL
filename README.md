@@ -1,5 +1,11 @@
 # MyProjects_DA_ML_DL  
 
+## Data Analysis
+
+|Project|Dataset|Additional Information|
+|:----|:----|:----|
+|[Widhya_Covid19Analysis_QuantitativeModeling.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/Data%20Analysis/Widhya_DataScienceInternship/Widhya_Covid19Analysis_QuantitativeModeling.ipynb>)|[GitHub](<https://raw.githubusercontent.com/WidhyaOrg/datasets/master/covid19.csv>)|Analysed Covid-19 spread using exponential growth formula|
+
 ## Machine Learning  
 #### Classification  
 
@@ -7,7 +13,7 @@
 |:----|:----|:----|
 |[binaryclassification-airlinepassengersatisfaction.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/MachineLearning/Classification/binaryclassification-airlinepassengersatisfaction.ipynb>)|[Kaggle.com](<https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction>)|XGBClassifier|  
 
-#### Regression
+#### Regression  
 
 |Project|Dataset|Machine Learning Algorithm (Data Model)|
 |:----|:----|:----|
