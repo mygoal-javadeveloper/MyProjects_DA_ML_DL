@@ -30,6 +30,7 @@
 |Project|Dataset|Deep Learning Algorithm (Data Model)|
 |:----|:----|:----|
 |[CNN_DigitClassifier.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/DeepLearning/ImageClassification_CNN/CNN_DigitClassifier.ipynb>)|Tensorflow Keras MNIST Dataset|CNN with Conv2D|  
+|[ComputerVisionProject.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/DeepLearning/ImageClassification_CNN/ComputerVisionProject.ipynb>)|Tensorflow Keras Cifar10 Dataset|CNN with Conv2D| 
 
 ## Web-scraping
 |Project|Web Link|Additional Information|
