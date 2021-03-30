@@ -24,7 +24,7 @@
 |:----|:----|
 |[ComputerVisionTask_OCR.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/ComputerVision/ComputerVisionTask_OCR.ipynb>)||  
 |[Python_OpenCV.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/ComputerVision/Python_OpenCV.ipynb>)||  
-
+|[ReadingPancard.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/ComputerVision/ReadingPancard.ipynb>)||
 ## Deep Learning
 #### Image Classification
 |Project|Dataset|Deep Learning Algorithm (Data Model)|
