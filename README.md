@@ -29,7 +29,11 @@
 #### Image Classification
 |Project|Dataset|Deep Learning Algorithm (Data Model)|
 |:----|:----|:----|
-|[CNN_DigitClassifier.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/DeepLearning/ImageClassification_CNN/CNN_DigitClassifier.ipynb>)|Tensorflow Keras MNIST Dataset|CNN with Conv2D|
+|[CNN_DigitClassifier.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/DeepLearning/ImageClassification_CNN/CNN_DigitClassifier.ipynb>)|Tensorflow Keras MNIST Dataset|CNN with Conv2D|  
 
+## Web-scraping
+|Project|Web Link|Additional Information|
+|:----|:----|:----|
+|[Webscraping_novelchapters.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/Web_scraping/Webscraping_novelchapters.ipynb>)|[Web-Link](<https://novelfull.com/warriors-promise/chapter-1.html>)|Scrape 30 chapters in this novel and save it in json format|
 
 
