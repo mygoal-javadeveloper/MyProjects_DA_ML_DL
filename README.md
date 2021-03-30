@@ -23,6 +23,13 @@
 |Project|Dataset|
 |:----|:----|
 |[ComputerVisionTask_OCR.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/ComputerVision/ComputerVisionTask_OCR.ipynb>)||  
-|[Python_OpenCV](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/ComputerVision/Python_OpenCV.ipynb>)||
+|[Python_OpenCV.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/ComputerVision/Python_OpenCV.ipynb>)||  
+
+## Deep Learning
+#### Image Classification
+|Project|Dataset|Deep Learning Algorithm (Data Model)|
+|:----|:----|:----|
+|[CNN_DigitClassifier.ipynb](<https://github.com/mygoal-javadeveloper/MyProjects_DA_ML_DL/blob/main/DeepLearning/ImageClassification_CNN/CNN_DigitClassifier.ipynb>)|Tensorflow Keras MNIST Dataset|CNN with Conv2D|
+
 
 
